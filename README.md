@@ -1,2 +1,2 @@
-# AoC_2025
-My solutions to advent of code 2025
+# My Advent of Code
+This repository contains all my solutions to <a href="https://adventofcode.com">Advent of Code</a>
