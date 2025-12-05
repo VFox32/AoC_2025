@@ -39,9 +39,13 @@ int removeRolls(std::vector<std::string> &grid) {
     return count;
 }
 
+#include <filesystem>
+
 int main(int argc, char const *argv[]) {
     std::string line = "";
-    std::ifstream file("C:\\Users\\mail\\Documents\\Dev\\Cpp\\AoC\\2025\\04\\input.txt");
+    std::ifstream file("2025\\04\\input.txt");
+
+    std::cout << "CWD: " << std::filesystem::current_path() << std::endl;
 
     int count1 = 0;
     int count2 = 0;

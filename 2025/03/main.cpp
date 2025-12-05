@@ -18,7 +18,7 @@ const int numLength = 12; // length of required number for part 2
 
 int main(int argc, char const *argv[]) {
     std::string line = "";
-    std::ifstream file("C:\\Users\\mail\\Documents\\Dev\\Cpp\\AoC\\2025\\03\\input.txt");
+    std::ifstream file("2025\\03\\input.txt");
 
     unsigned long long int num1 = 0;
     unsigned long long int num2 = 0;

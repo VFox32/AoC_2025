@@ -34,7 +34,7 @@ bool isDouble(std::string num) {
 
 int main(int argc, char const *argv[]) {
     std::string line = "";
-    std::ifstream file("C:\\Users\\mail\\Documents\\Dev\\Cpp\\AoC\\2025\\02\\input.txt");
+    std::ifstream file("2025\\02\\input.txt");
 
     unsigned long long int num1 = 0;
     unsigned long long int num2 = 0;

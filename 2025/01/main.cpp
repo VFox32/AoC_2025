@@ -5,7 +5,7 @@
 
 int main(int argc, char const *argv[]) {
     std::string line = "";
-    std::ifstream file("C:\\Users\\mail\\Documents\\Dev\\Cpp\\AoC\\2025\\01\\input.txt");
+    std::ifstream file("2025\\01\\input.txt");
 
     int num = 50; // initial dial position
     int count1 = 0; // part 1

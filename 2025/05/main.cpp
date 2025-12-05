@@ -13,7 +13,7 @@ struct Range {
 
 int main(int argc, char const *argv[]) {
     std::string line = "";
-    std::ifstream file("C:\\Users\\mail\\Documents\\Dev\\Cpp\\AoC\\2025\\05\\input.txt");
+    std::ifstream file("2025\\05\\input.txt");
 
     unsigned long long int count1 = 0;
     unsigned long long int count2 = 0;
